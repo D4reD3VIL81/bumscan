@@ -1,0 +1,8 @@
+my_env_project/
+*.sqlite3
+**/__pycache__/
+**/uploads/
+/static/
+/media/
+/build/
+upload/
